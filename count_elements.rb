@@ -2,7 +2,8 @@
 
 # def count_elements(array)
 #   new_hash = {}
-#   array.uniq.each do |element|         # for each element in array
+#   array.uniq.each do |element|
+#     # for each element in array
 #     new_hash[element] = array.count(element)
 #     # new_hash[element] represents the hash key
 #     # = RHS, assigns the value to the key
